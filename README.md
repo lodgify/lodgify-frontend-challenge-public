@@ -1,0 +1,1 @@
+# lodgify-frontend-challenge-public
